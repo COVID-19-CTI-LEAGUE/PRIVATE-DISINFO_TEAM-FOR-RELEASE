@@ -1,0 +1,386 @@
+{
+    "AllJobsAreEssential": {
+        "WeWontStayHome": 5,
+        "AllWorkersAreEssential": 2,
+        "DefendTheAmericanDream": 2,
+        "EveryoneShouldBePaidALivingWage": 2,
+        "OneJobShouldBeEnough": 2,
+        "StrongTradeUnionsStrongMiddleClassStrongAmerica": 2,
+        "SupportTradeUnions": 2,
+        "TrickleDownEconomicsNEVERWorks": 2,
+        "ValueAllWorkers": 2,
+        "COVID19": 1,
+        "ReopenAmerica": 1,
+        "NotASlave": 3,
+        "freedom": 4,
+        "TarrantCounty": 1,
+        "Texas": 1,
+        "EnoughIsEnough": 1,
+        "FauciFraud": 1,
+        "FireBirx": 3,
+        "FireFauci": 3,
+        "GiveMeLiberty": 3,
+        "Govenors": 1,
+        "IWantMyJobBack": 1,
+        "COVID": 2,
+        "ChinaMustPay": 1,
+        "DoNotTrustThem": 1,
+        "EconomicWarfare": 1,
+        "Holdovers": 1,
+        "ItsCalledFraud": 1,
+        "SocialEngineering": 2,
+        "WWG1WGA": 2,
+        "WWG1WGAWORLDWIDE": 2,
+        "BillGatesBioTerrorist": 1,
+        "BillGatesIsEvil": 1,
+        "BillGatesIsNotOurFriend": 1,
+        "BillGatesPublicEnemy1": 1,
+        "Enough": 1,
+        "Event201": 1,
+        "WednesdayWisdom": 1,
+        "tyranny": 1
+    },
+    "AllWorkersAreEssential": {
+        "DefendTheAmericanDream": 2,
+        "EveryoneShouldBePaidALivingWage": 2,
+        "OneJobShouldBeEnough": 2,
+        "StrongTradeUnionsStrongMiddleClassStrongAmerica": 2,
+        "SupportTradeUnions": 2,
+        "TrickleDownEconomicsNEVERWorks": 2,
+        "ValueAllWorkers": 2
+    },
+    "DefendTheAmericanDream": {
+        "EveryoneShouldBePaidALivingWage": 2,
+        "OneJobShouldBeEnough": 2,
+        "StrongTradeUnionsStrongMiddleClassStrongAmerica": 2,
+        "SupportTradeUnions": 2,
+        "TrickleDownEconomicsNEVERWorks": 2,
+        "ValueAllWorkers": 2
+    },
+    "EveryoneShouldBePaidALivingWage": {
+        "OneJobShouldBeEnough": 2,
+        "StrongTradeUnionsStrongMiddleClassStrongAmerica": 2,
+        "SupportTradeUnions": 2,
+        "TrickleDownEconomicsNEVERWorks": 2,
+        "ValueAllWorkers": 2
+    },
+    "OneJobShouldBeEnough": {
+        "StrongTradeUnionsStrongMiddleClassStrongAmerica": 2,
+        "SupportTradeUnions": 2,
+        "TrickleDownEconomicsNEVERWorks": 2,
+        "ValueAllWorkers": 2
+    },
+    "StrongTradeUnionsStrongMiddleClassStrongAmerica": {
+        "SupportTradeUnions": 2,
+        "TrickleDownEconomicsNEVERWorks": 2,
+        "ValueAllWorkers": 2
+    },
+    "SupportTradeUnions": {
+        "TrickleDownEconomicsNEVERWorks": 2,
+        "ValueAllWorkers": 2
+    },
+    "TrickleDownEconomicsNEVERWorks": {
+        "ValueAllWorkers": 2
+    },
+    "COVID19": {
+        "ReopenAmerica": 1,
+        "COVIDー19": 1,
+        "MAGA": 1,
+        "POTUS": 1,
+        "coronoavirus": 1
+    },
+    "NotASlave": {
+        "WeWontStayHome": 3,
+        "freedom": 3
+    },
+    "WeWontStayHome": {
+        "freedom": 3
+    },
+    "alljobsareessential": {
+        "endthelockdown": 4,
+        "wewontstayhome": 10,
+        "stopthegoodsban": 2,
+        "stoptabaccoban": 1,
+        "lockdownSa": 1,
+        "stoptheboozeban": 1,
+        "stopthesmokesban": 1
+    },
+    "endthelockdown": {
+        "wewontstayhome": 4
+    },
+    "ALLJOBSAREESSENTIAL": {
+        "COVID19": 1,
+        "COVIDー19": 1,
+        "MAGA": 1,
+        "POTUS": 1,
+        "coronoavirus": 1
+    },
+    "COVIDー19": {
+        "MAGA": 1,
+        "POTUS": 1,
+        "coronoavirus": 1
+    },
+    "MAGA": {
+        "POTUS": 1,
+        "coronoavirus": 1
+    },
+    "POTUS": {
+        "coronoavirus": 1
+    },
+    "TarrantCounty": {
+        "Texas": 1
+    },
+    "EnoughIsEnough": {
+        "FauciFraud": 1,
+        "FireBirx": 1,
+        "FireFauci": 1,
+        "GiveMeLiberty": 1,
+        "Govenors": 1,
+        "IWantMyJobBack": 1,
+        "freedom": 1
+    },
+    "FauciFraud": {
+        "FireBirx": 1,
+        "FireFauci": 1,
+        "GiveMeLiberty": 1,
+        "Govenors": 1,
+        "IWantMyJobBack": 1,
+        "freedom": 1
+    },
+    "FireBirx": {
+        "FireFauci": 3,
+        "GiveMeLiberty": 3,
+        "Govenors": 1,
+        "IWantMyJobBack": 1,
+        "freedom": 1,
+        "Holdovers": 1,
+        "ItsCalledFraud": 1,
+        "SocialEngineering": 2,
+        "WWG1WGA": 2,
+        "WWG1WGAWORLDWIDE": 2,
+        "WednesdayWisdom": 1,
+        "tyranny": 1
+    },
+    "FireFauci": {
+        "GiveMeLiberty": 3,
+        "Govenors": 1,
+        "IWantMyJobBack": 1,
+        "freedom": 1,
+        "Holdovers": 1,
+        "ItsCalledFraud": 1,
+        "SocialEngineering": 2,
+        "WWG1WGA": 2,
+        "WWG1WGAWORLDWIDE": 2,
+        "WednesdayWisdom": 1,
+        "tyranny": 1
+    },
+    "GiveMeLiberty": {
+        "Govenors": 1,
+        "IWantMyJobBack": 1,
+        "freedom": 1,
+        "Holdovers": 1,
+        "ItsCalledFraud": 1,
+        "SocialEngineering": 2,
+        "WWG1WGA": 2,
+        "WWG1WGAWORLDWIDE": 2,
+        "WednesdayWisdom": 1,
+        "tyranny": 1
+    },
+    "Govenors": {
+        "IWantMyJobBack": 1,
+        "freedom": 1
+    },
+    "IWantMyJobBack": {
+        "freedom": 1
+    },
+    "COVID": {
+        "ChinaMustPay": 1,
+        "DoNotTrustThem": 1,
+        "EconomicWarfare": 1,
+        "FireBirx": 2,
+        "FireFauci": 2,
+        "GiveMeLiberty": 2,
+        "Holdovers": 1,
+        "ItsCalledFraud": 1,
+        "SocialEngineering": 2,
+        "WWG1WGA": 2,
+        "WWG1WGAWORLDWIDE": 2,
+        "Event201": 2,
+        "Enough": 1,
+        "WednesdayWisdom": 1,
+        "tyranny": 1
+    },
+    "ChinaMustPay": {
+        "DoNotTrustThem": 1,
+        "EconomicWarfare": 1,
+        "FireBirx": 1,
+        "FireFauci": 1,
+        "GiveMeLiberty": 1,
+        "Holdovers": 1,
+        "ItsCalledFraud": 1,
+        "SocialEngineering": 1,
+        "WWG1WGA": 1,
+        "WWG1WGAWORLDWIDE": 1
+    },
+    "DoNotTrustThem": {
+        "EconomicWarfare": 1,
+        "FireBirx": 1,
+        "FireFauci": 1,
+        "GiveMeLiberty": 1,
+        "Holdovers": 1,
+        "ItsCalledFraud": 1,
+        "SocialEngineering": 1,
+        "WWG1WGA": 1,
+        "WWG1WGAWORLDWIDE": 1
+    },
+    "EconomicWarfare": {
+        "FireBirx": 1,
+        "FireFauci": 1,
+        "GiveMeLiberty": 1,
+        "Holdovers": 1,
+        "ItsCalledFraud": 1,
+        "SocialEngineering": 1,
+        "WWG1WGA": 1,
+        "WWG1WGAWORLDWIDE": 1
+    },
+    "Holdovers": {
+        "ItsCalledFraud": 1,
+        "SocialEngineering": 1,
+        "WWG1WGA": 1,
+        "WWG1WGAWORLDWIDE": 1
+    },
+    "ItsCalledFraud": {
+        "SocialEngineering": 1,
+        "WWG1WGA": 1,
+        "WWG1WGAWORLDWIDE": 1
+    },
+    "SocialEngineering": {
+        "WWG1WGA": 2,
+        "WWG1WGAWORLDWIDE": 2,
+        "WednesdayWisdom": 1,
+        "tyranny": 1
+    },
+    "WWG1WGA": {
+        "WWG1WGAWORLDWIDE": 2,
+        "WednesdayWisdom": 1,
+        "tyranny": 1
+    },
+    "BillGatesBioTerrorist": {
+        "BillGatesIsEvil": 2,
+        "BillGatesIsNotOurFriend": 2,
+        "BillGatesPublicEnemy1": 2,
+        "COVID": 2,
+        "Event201": 2,
+        "Enough": 1,
+        "FireBirx": 1,
+        "FireFauci": 1,
+        "GiveMeLiberty": 1,
+        "SocialEngineering": 1,
+        "WWG1WGA": 1,
+        "WWG1WGAWORLDWIDE": 1,
+        "WednesdayWisdom": 1,
+        "tyranny": 1
+    },
+    "BillGatesIsEvil": {
+        "BillGatesIsNotOurFriend": 2,
+        "BillGatesPublicEnemy1": 2,
+        "COVID": 2,
+        "Event201": 2,
+        "Enough": 1,
+        "FireBirx": 1,
+        "FireFauci": 1,
+        "GiveMeLiberty": 1,
+        "SocialEngineering": 1,
+        "WWG1WGA": 1,
+        "WWG1WGAWORLDWIDE": 1,
+        "WednesdayWisdom": 1,
+        "tyranny": 1
+    },
+    "BillGatesIsNotOurFriend": {
+        "BillGatesPublicEnemy1": 2,
+        "COVID": 2,
+        "Event201": 2,
+        "Enough": 1,
+        "FireBirx": 1,
+        "FireFauci": 1,
+        "GiveMeLiberty": 1,
+        "SocialEngineering": 1,
+        "WWG1WGA": 1,
+        "WWG1WGAWORLDWIDE": 1,
+        "WednesdayWisdom": 1,
+        "tyranny": 1
+    },
+    "BillGatesPublicEnemy1": {
+        "COVID": 2,
+        "Event201": 2,
+        "Enough": 1,
+        "FireBirx": 1,
+        "FireFauci": 1,
+        "GiveMeLiberty": 1,
+        "SocialEngineering": 1,
+        "WWG1WGA": 1,
+        "WWG1WGAWORLDWIDE": 1,
+        "WednesdayWisdom": 1,
+        "tyranny": 1
+    },
+    "Enough": {
+        "Event201": 1,
+        "FireBirx": 1,
+        "FireFauci": 1,
+        "GiveMeLiberty": 1,
+        "SocialEngineering": 1,
+        "WWG1WGA": 1,
+        "WWG1WGAWORLDWIDE": 1,
+        "WednesdayWisdom": 1,
+        "tyranny": 1
+    },
+    "Event201": {
+        "FireBirx": 1,
+        "FireFauci": 1,
+        "GiveMeLiberty": 1,
+        "SocialEngineering": 1,
+        "WWG1WGA": 1,
+        "WWG1WGAWORLDWIDE": 1,
+        "WednesdayWisdom": 1,
+        "tyranny": 1
+    },
+    "WWG1WGAWORLDWIDE": {
+        "WednesdayWisdom": 1,
+        "tyranny": 1
+    },
+    "WednesdayWisdom": {
+        "tyranny": 1
+    },
+    "LockdownSA": {
+        "alljobsareessential": 1,
+        "stopthegoodsban": 1
+    },
+    "allgoodsareessential": {
+        "alljobsareessential": 1,
+        "stoptabaccoban": 1,
+        "stopthegoodsban": 1
+    },
+    "stoptabaccoban": {
+        "stopthegoodsban": 1
+    },
+    "OpenTheState": {
+        "allbusinessisessential": 1,
+        "alljobsareessential": 1
+    },
+    "allbusinessisessential": {
+        "alljobsareessential": 1
+    },
+    "allbussinessisessential": {
+        "alljobsareessential": 1,
+        "lockdownSa": 1,
+        "stoptheboozeban": 1,
+        "stopthesmokesban": 1
+    },
+    "lockdownSa": {
+        "stoptheboozeban": 1,
+        "stopthesmokesban": 1
+    },
+    "stoptheboozeban": {
+        "stopthesmokesban": 1
+    }
+}

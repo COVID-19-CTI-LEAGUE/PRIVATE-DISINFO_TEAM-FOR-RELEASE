@@ -1,0 +1,63 @@
+{
+    "COVID19": {
+        "coronavirus": 4,
+        "COVIDー19": 1,
+        "MAGA": 1,
+        "POTUS": 2,
+        "coronoavirus": 1,
+        "CoronavirusPandemic": 1,
+        "Recession": 1,
+        "investment": 1,
+        "markets": 1
+    },
+    "POTUS": {
+        "cuomo": 1,
+        "toolbag": 1,
+        "coronoavirus": 1,
+        "Recession": 1,
+        "coronavirus": 1,
+        "investment": 1,
+        "markets": 1
+    },
+    "cuomo": {
+        "toolbag": 1
+    },
+    "ALLJOBSAREESSENTIAL": {
+        "COVID19": 1,
+        "COVIDー19": 1,
+        "MAGA": 1,
+        "POTUS": 1,
+        "coronoavirus": 1
+    },
+    "COVIDー19": {
+        "MAGA": 1,
+        "POTUS": 1,
+        "coronoavirus": 1
+    },
+    "MAGA": {
+        "POTUS": 1,
+        "coronoavirus": 1
+    },
+    "CoronavirusPandemic": {
+        "POTUS": 1,
+        "Recession": 1,
+        "coronavirus": 1,
+        "investment": 1,
+        "markets": 1
+    },
+    "Recession": {
+        "coronavirus": 1,
+        "investment": 1,
+        "markets": 1
+    },
+    "coronavirus": {
+        "investment": 1,
+        "markets": 1
+    },
+    "investment": {
+        "markets": 1
+    },
+    "Wyoming": {
+        "hillside": 1
+    }
+}

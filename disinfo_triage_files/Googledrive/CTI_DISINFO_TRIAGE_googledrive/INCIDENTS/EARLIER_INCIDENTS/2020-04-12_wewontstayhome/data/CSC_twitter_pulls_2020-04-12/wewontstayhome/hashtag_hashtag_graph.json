@@ -1,0 +1,84 @@
+{
+    "EnoughIsEnough": {
+        "NCGOP": 1,
+        "OpenNCBackUp": 1,
+        "WeWontStayHome": 1,
+        "coronavirus": 1,
+        "ncga": 1,
+        "ncpol": 1
+    },
+    "NCGOP": {
+        "OpenNCBackUp": 1,
+        "WeWontStayHome": 1,
+        "coronavirus": 1,
+        "ncga": 1,
+        "ncpol": 1
+    },
+    "OpenNCBackUp": {
+        "WeWontStayHome": 1,
+        "coronavirus": 1,
+        "ncga": 1,
+        "ncpol": 1
+    },
+    "WeWontStayHome": {
+        "coronavirus": 1,
+        "ncga": 1,
+        "ncpol": 1,
+        "freedom": 3
+    },
+    "coronavirus": {
+        "ncga": 1,
+        "ncpol": 1
+    },
+    "ncga": {
+        "ncpol": 1
+    },
+    "AllJobsAreEssential": {
+        "WeWontStayHome": 5,
+        "NotASlave": 3,
+        "freedom": 3
+    },
+    "AllJobsAre": {
+        "WeWontStayHome": 1
+    },
+    "endthelockdown": {
+        "wewontstayhome": 8
+    },
+    "NotASlave": {
+        "WeWontStayHome": 3,
+        "freedom": 3
+    },
+    "EndTheShutdown": {
+        "endthelockdown": 1,
+        "wewontstayhome": 1
+    },
+    "alljobsareessential": {
+        "endthelockdown": 4,
+        "wewontstayhome": 10
+    },
+    "Coronavirus": {
+        "CoronavirusLockdown": 1,
+        "DeepStateVirus": 1,
+        "OpenTexasNOW": 1,
+        "OpenUSA": 1,
+        "WeWontStayHome": 1
+    },
+    "CoronavirusLockdown": {
+        "DeepStateVirus": 1,
+        "OpenTexasNOW": 1,
+        "OpenUSA": 1,
+        "WeWontStayHome": 1
+    },
+    "DeepStateVirus": {
+        "OpenTexasNOW": 1,
+        "OpenUSA": 1,
+        "WeWontStayHome": 1
+    },
+    "OpenTexasNOW": {
+        "OpenUSA": 1,
+        "WeWontStayHome": 1
+    },
+    "OpenUSA": {
+        "WeWontStayHome": 1
+    }
+}
